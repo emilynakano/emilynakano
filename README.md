@@ -55,9 +55,10 @@
 <br />
 
 ### Talk with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/emily-nakano-799566240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="20" width="30" /></a> </p>
-
+<div>
+ <a href = "mailto:nakanodepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/emily-nakano-799566240/" target="blank"><img align="end" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mateuscruzrossetto" height="25" width="30" /></a> 
+</div>
 <!-- 
 <img height="46%" src="https://github-readme-stats.vercel.app/api/wakatime?username=emilynakano&layout=compact&theme=radical" />
 -->

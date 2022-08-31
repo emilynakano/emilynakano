@@ -3,8 +3,6 @@
 
 🖥️ I'm a **Full Stack Web Developer student** at **Driven Education**. 
 
-👻  And... I'm a fan of Stephen King's **books**.
-
 ---
 
 ### <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Languages & Tools

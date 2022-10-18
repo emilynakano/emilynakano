@@ -76,6 +76,13 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilynakano&layout=compact&theme=midnight-purple&include_all_commits=true&count_private=true" />
 
+## 💡	 Projects 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynakano&repo=shining-front&layout=compact&theme=midnight-purple)](https://github.com/emilynakano/shining-front)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emilynakano&repo=shining-back&layout=compact&theme=midnight-purple)](https://github.com/emilynakano/shining-back)
+
+
 </div>
   
 
@@ -86,7 +93,6 @@
 
 <a href="https://www.linkedin.com/in/emily-nakano-799566240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emily-nakano-799566240/" height="20" width="30" /></a> 
 
+<br />
 
-<!-- 
-<img height="46%" src="https://github-readme-stats.vercel.app/api/wakatime?username=emilynakano&layout=compact&theme=radical" />
--->
+

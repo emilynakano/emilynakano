@@ -1,12 +1,23 @@
   
-### <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> Hello world, I'm Emily!  
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="26"> Hello world, I'm Emily!  
+
+<div align="start">
 
 🖥️ I'm a **Full Stack Web Developer student** at **Driven Education**. 
 
+👷🏻 I fell in love with the codes in my first programming logic class at the Federal Technological University of Paraná (UTFPR).
+
+📚 I'm always reading a book by the master of horror, **Stephen King**.
+
+<img width="18px" src="https://www.free-emoticons.com/files/objects-emoticons/12051.png" /> I love learning how to solve magic cubes.
+
+</div>
 
 ## <img width="26" src="https://media1.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif"> Languages & Tools
 
-- ### Front-End
+ ### Front-End
 <div>
  <img style='margin: 5px;' src="https://img.shields.io/badge/javascript%20-%2320232a.svg?&style=for-the-badge&color=F7DF1E&logo=javascript&logoColor=000000" />
   <img style='margin: 5px;' src="https://img.shields.io/badge/CSS3%20-%2320232a.svg?&style=for-the-badge&color=1572B6&logo=CSS3&logoColor=ffffff"/>
@@ -16,7 +27,7 @@
     <img style='margin: 5px;' src="https://img.shields.io/badge/Cypress%20-%2320232a.svg?&style=for-the-badge&color=17202C&logo=Cypress&logoColor=ffffff"/>
 </div>
 
-- ### Back-End
+ ### Back-End
 <div>
   <img style='margin: 5px;' src="https://img.shields.io/badge/node js%20-%2320232a.svg?&style=for-the-badge&color=339933&logo=node.js&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Express%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Express&logoColor=ffffff"/>
@@ -29,7 +40,7 @@
   
 </div>
 
-- ### Tools
+### Tools
 <div>
  <img style='margin: 5px;' src="https://img.shields.io/badge/visual studio code%20-%2320232a.svg?&style=for-the-badge&color=007ACC&logo=visualstudiocode&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/trello%20-%2320232a.svg?&style=for-the-badge&color=0052CC&logo=trello&logoColor=ffffff"/>
@@ -39,7 +50,7 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/figma%20-%2320232a.svg?&style=for-the-badge&color=F24E1E&logo=Figma&logoColor=ffffff"/>
  </div>
 
-- ### Cloud
+ ### Cloud
 <div>
 <img style='margin: 5px;' src="https://img.shields.io/badge/Vercel%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=Vercel&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo Atlas%20-%2320232a.svg?&style=for-the-badge&color=ffffff&logo=MongoDB&logoColor=47A248"/>
@@ -47,16 +58,23 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/Amazon AWS%20-%2320232a.svg?&style=for-the-badge&color=232F3E&logo=Amazon AWS&logoColor=FF9900"/>
 
   </div>
+  
+  </div>
+
+
+
+<div align="center">
 
 
 ## :mechanical_arm:	 Development 
 
+<img src="https://github-readme-stats.vercel.app/api/?username=emilynakano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true" />
 
-<div align="start">
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilynakano&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
+ 
   <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emilynakano&layout=compact&theme=midnight-purple&include_all_commits=true&count_private=true)](https://github.com/emilynakano/github-readme-stats)
+  
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilynakano&layout=compact&theme=midnight-purple&include_all_commits=true&count_private=true" />
 
 </div>
   
@@ -64,9 +82,11 @@
 <br />
 
 ### Talk with me:
-<div>
- <a href = "mailto:nakanodepaula@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+
+<a href="https://www.linkedin.com/in/emily-nakano-799566240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emily-nakano-799566240/" height="20" width="30" /></a> 
+
+
 <!-- 
 <img height="46%" src="https://github-readme-stats.vercel.app/api/wakatime?username=emilynakano&layout=compact&theme=radical" />
 -->

@@ -34,10 +34,9 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/TypeScript%20-%2320232a.svg?&style=for-the-badge&color=3178C6&logo=TypeScript&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Mongo db%20-%2320232a.svg?&style=for-the-badge&color=47A248&logo=MongoDB&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/PostgreSQL%20-%2320232a.svg?&style=for-the-badge&color=4169E1&logo=PostgreSQL&logoColor=ffffff"/>
-  <img style='margin: 5px;' src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&color=C21325&logo=jest&logoColor=ffffff"/>
-  <img style='margin: 5px;' src="https://img.shields.io/badge/Nestjs%20-%2320232a.svg?&style=for-the-badge&color=E0234E&logo=Nestjs&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Prisma%20-%2320232a.svg?&style=for-the-badge&color=4C51BF&logo=Prisma&logoColor=ffffff"/>
-  
+  <img style='margin: 5px;' src="https://img.shields.io/badge/jest%20-%2320232a.svg?&style=for-the-badge&color=C21325&logo=jest&logoColor=ffffff"/>
+
 </div>
 
 ### Tools
@@ -48,6 +47,7 @@
   <img style='margin: 5px;' src="https://img.shields.io/badge/github actions%20-%2320232a.svg?&style=for-the-badge&color=000000&logo=github&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/Slack%20-%2320232a.svg?&style=for-the-badge&color=4A154B&logo=Slack&logoColor=ffffff"/>
   <img style='margin: 5px;' src="https://img.shields.io/badge/figma%20-%2320232a.svg?&style=for-the-badge&color=F24E1E&logo=Figma&logoColor=ffffff"/>
+  <img style='margin: 5px;' src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
  </div>
 
  ### Cloud

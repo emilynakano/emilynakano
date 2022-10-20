@@ -68,7 +68,7 @@
 
 ## :mechanical_arm:	 Development 
 
-<img src="https://github-readme-stats.vercel.app/api/?username=emilynakano&&include_all_commits=trueshow_icons=true&theme=midnight-purple&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/?username=emilynakano&include_all_commits=true&show_icons=true&theme=midnight-purple&count_private=true" />
 
  
   <br />

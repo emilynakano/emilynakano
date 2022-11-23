@@ -92,7 +92,7 @@
 
 <div>
 <a href="https://www.linkedin.com/in/emilynakano/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/emily-nakano-799566240/" /></a> 
-<a href="nakanodepaula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> 
+<a href="mailto:nakanodepaula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> 
 </div>
  
 <br />

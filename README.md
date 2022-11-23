@@ -90,9 +90,11 @@
 
 ### Talk with me:
 
-
-<a href="https://www.linkedin.com/in/emilynakano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emily-nakano-799566240/" height="20" width="30" /></a> 
-
+<div>
+<a href="https://www.linkedin.com/in/emilynakano/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/emily-nakano-799566240/" /></a> 
+<a href="nakanodepaula@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a> 
+</div>
+ 
 <br />
 
 

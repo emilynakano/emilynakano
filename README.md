@@ -5,7 +5,7 @@
 
 <div align="start">
 
-🖥️ I'm a **Full Stack Web Developer student** at **Driven Education**. 
+🖥️ I'm a **Full Stack Web Developer**. 
 
 👷🏻 I fell in love with the codes in my first programming logic class at the Federal Technological University of Paraná (UTFPR).
 
